@@ -1,2 +1,7 @@
 **/*/input
 **/*/output
+**/*/macenv
+**/*/lnx32env
+**/*/lnx64env
+**/*/win64env
+**/*/win32env
